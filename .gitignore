@@ -17,3 +17,8 @@
 *.pyc
 .jetski_venv/
 reports/
+
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
