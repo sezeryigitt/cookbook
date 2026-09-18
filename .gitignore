@@ -22,3 +22,6 @@ reports/
 .env
 .env.*
 !.env.example
+
+# Agent yapılanması
+*AGENT.md
